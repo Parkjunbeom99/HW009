@@ -1,4 +1,5 @@
 # 숫자 야구 게임 (Unreal Engine C++)
+<img width="1914" height="1025" alt="image" src="https://github.com/user-attachments/assets/991dcf59-c7c9-490a-a6e7-9da39b8fb6c1" />
 
 ## 소개
 이 프로젝트는 Unreal Engine C++을 사용하여 구현한 **멀티플레이어 숫자 야구 게임**입니다.  
